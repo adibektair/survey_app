@@ -1,0 +1,30 @@
+PODS:
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - ToastViewSwift (1.0.5)
+
+DEPENDENCIES:
+  - RxCocoa (= 6.2.0)
+  - RxSwift (= 6.2.0)
+  - ToastViewSwift
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - ToastViewSwift
+
+SPEC CHECKSUMS:
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  ToastViewSwift: 18aa7c783b02cc55547cde7679f3771692297aae
+
+PODFILE CHECKSUM: 435596332d6a6748119b34004c064be8eae89a81
+
+COCOAPODS: 1.11.2

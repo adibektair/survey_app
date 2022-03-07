@@ -1,0 +1,6 @@
+framework module Pods_XM_Test_task {
+  umbrella header "Pods-XM Test task-umbrella.h"
+
+  export *
+  module * { export * }
+}
